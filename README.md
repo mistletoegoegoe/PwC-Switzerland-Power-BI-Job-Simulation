@@ -54,7 +54,8 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 - Average performance rating: men
 - Average Performance rating: women
 
-<img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/3c1a0dba-2a89-47bf-988b-4764d0a25715">
+
 
 ## 2. Customer retention analysis
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
@@ -104,5 +105,6 @@ Demographic info about customers – gender, age range, and if they have partner
 | Churn            | Indicates if the customer churned (Yes/No).                                            | No               |
 
 ### c. KPIs and visualisation
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/3c1a0dba-2a89-47bf-988b-4764d0a25715">
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
+
 
