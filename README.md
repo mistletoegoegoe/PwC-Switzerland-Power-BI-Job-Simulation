@@ -1,6 +1,6 @@
 # PwC-Switzerland-Power-BI-Job-Simulation
 ## 1. Diversity and Gender balance analysis
-<img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/3c1a0dba-2a89-47bf-988b-4764d0a25715">
 
 ### a. Client context
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
@@ -57,7 +57,7 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
 
 ## 2. Customer retention analysis
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/3c1a0dba-2a89-47bf-988b-4764d0a25715">
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/f7230e01-87e1-46ae-aae4-b154a074cff7">
 
 ### a. Client inputs and requirement
 #### Context from client:
