@@ -3,14 +3,14 @@
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/3c1a0dba-2a89-47bf-988b-4764d0a25715">
 
 ### a. Client inputs and requirement
-#### Context from client
+#### Context from client:
 - Customers in the telecom industry are hard-earned: client doesn’t want to lose them
 - The retention department is here to get customers back in case of termination 
 - Currently, client get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
 - Client  has done customer analysis with Excel: it has always ended in a dead-end
 - Client would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 
-#### Client requirements
+#### Client requirements:
 Client would like to cover at least following issues: 
 - Customers who left within the last month
 - Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
