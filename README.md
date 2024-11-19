@@ -43,9 +43,9 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 
 ### c. KPIs and Visualisation
 #### Several KPIs that needs to be covered: 
-- # of men
-- # of women
-- # of leavers
+- Number of men
+- Number of women
+- Number of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
