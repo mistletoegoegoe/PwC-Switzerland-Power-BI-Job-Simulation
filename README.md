@@ -20,7 +20,34 @@ and number of tickets opened in the categories administrative and technical
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 ### b. Dataset
+| Column Name      | Description                                                                            | Example          |
+|------------------|----------------------------------------------------------------------------------------|------------------|
+| customerID       | Unique identifier for each customer.                                                   | 7590-VHVEG       |
+| gender           | Gender of the customer.                                                                | Female           |
+| SeniorCitizen    | Indicates if the customer is a senior citizen (1 = Yes, 0 = No).                       | 0                |
+| Partner          | Indicates if the customer has a partner (Yes/No).                                      | Yes              |
+| Dependents       | Indicates if the customer has dependents (Yes/No).                                     | No               |
+| tenure           | Number of months the customer has been with the company.                               | 1                |
+| PhoneService     | Indicates if the customer subscribes to phone services (Yes/No).                       | No               |
+| MultipleLines    | Indicates if the customer has multiple phone lines (Yes/No/No phone service).          | No phone service |
+| InternetService  | Type of internet service the customer subscribes to (DSL/Fiber optic/No).              | DSL              |
+| OnlineSecurity   | Indicates if the customer has online security service (Yes/No).                        | No               |
+| OnlineBackup     | Indicates if the customer has online backup service (Yes/No).                          | Yes              |
+| DeviceProtection | Indicates if the customer has device protection service (Yes/No).                      | No               |
+| TechSupport      | Indicates if the customer has technical support service (Yes/No).                      | No               |
+| StreamingTV      | Indicates if the customer subscribes to a TV streaming service (Yes/No).               | No               |
+| StreamingMovies  | Indicates if the customer subscribes to a movie streaming service (Yes/No).            | No               |
+| Contract         | Type of contract (Month-to-month/One year/Two year).                                   | Month-to-month   |
+| PaperlessBilling | Indicates if the customer has paperless billing enabled (Yes/No).                      | Yes              |
+| PaymentMethod    | Method used by the customer to pay bills (e.g., Electronic check, Mailed check, etc.). | Electronic check |
+| MonthlyCharges   | Amount charged to the customer monthly (in USD).                                       | 29.85            |
+| TotalCharges     | Total amount charged to the customer (in USD).                                         | 29.85            |
+| numAdminTickets  | Number of administrative tickets raised by the customer.                               | 0                |
+| numTechTickets   | Number of technical tickets raised by the customer.                                    | 0                |
+| Churn            | Indicates if the customer churned (Yes/No).                                            | No               |
+
 ### c. KPIs 
+
 ### d. Data visualisation
 
 
